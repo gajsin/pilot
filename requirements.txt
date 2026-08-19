@@ -6,3 +6,4 @@ sqlalchemy==2.0.52
 asyncpg==0.31.0
 aiosqlite==0.22.1
 aiogram==3.30.0
+python-dotenv==1.0.1
